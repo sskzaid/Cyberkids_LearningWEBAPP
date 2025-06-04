@@ -14,7 +14,7 @@
 
 Cyberkids is an interactive learning web application designed for high school students to gain a foundational understanding of cybersecurity concepts. It offers engaging lessons covering Caesar cipher, Vigenère cipher, Binary and Hexadecimal systems, and Hash functions. The web app aims to make learning about cybersecurity fun and accessible by incorporating interactive features.
 
-Try the demo (https://d6f79bdc.cyberkids-learningwebapp.pages.dev )
+Try the demo (https://cyberlearning.pages.dev/) 
 
 ### Aims and Objectives
 
